@@ -9,7 +9,7 @@ select * from Produtos
 select len('286d53b5-69ce-4bbd-b3f4-b4275d64adc4')
   
 
-dad
+daddasd
 
 CREATE TABLE Pedido
 (
